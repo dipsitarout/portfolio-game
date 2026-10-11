@@ -16,11 +16,7 @@
 
 <br/>
 
-> **Hero image placeholder.** No screenshots are committed to this repository yet.
-> Capture a 1600×900 screenshot of the starting plaza with the `DIPSITA ROUT` sign visible, save it as
-> `docs/screenshots/hero.png`, and replace this block with:
-> `<img src="docs/screenshots/hero.png" alt="First-person view of the starting plaza and the DIPSITA ROUT holographic sign" width="100%"/>`
-
+<img src="docs/screenshots/hero.png" alt="DIPSITA ROUT start screen with the Enter the World button" width="100%"/>
 ---
 
 ## Contents
