@@ -8,15 +8,9 @@
 
 <br/>
 
-[![Live Portfolio](https://img.shields.io/badge/ENTER_THE_WORLD-dipsitarout.tech-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dipsitarout.tech/)
-[![GitHub](https://img.shields.io/badge/GitHub-dipsitarout-0b1020?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/dipsitarout)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dipsita--rout-0b1020?style=for-the-badge&logo=linkedin&logoColor=8b5cf6)](https://www.linkedin.com/in/dipsita-rout/)
+**[ENTER THE WORLD](https://www.dipsitarout.tech/)** &nbsp;·&nbsp; **[GitHub](https://github.com/dipsitarout)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/dipsita-rout/)**
 
-![React](https://img.shields.io/badge/React_19-0b1020?style=flat-square&logo=react&logoColor=22d3ee)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b1020?style=flat-square&logo=typescript&logoColor=8b5cf6)
-![Three.js](https://img.shields.io/badge/Three.js-0b1020?style=flat-square&logo=threedotjs&logoColor=22d3ee)
-![Rapier](https://img.shields.io/badge/Rapier_Physics-0b1020?style=flat-square&logoColor=8b5cf6)
-![Vite](https://img.shields.io/badge/Vite-0b1020?style=flat-square&logo=vite&logoColor=8b5cf6)
+`React 19` &nbsp; `TypeScript` &nbsp; `Three.js` &nbsp; `React Three Fiber` &nbsp; `Rapier physics` &nbsp; `Vite`
 
 </div>
 
@@ -178,13 +172,13 @@ Versions are the ranges declared in [`package.json`](package.json).
 
 | Category | Technologies |
 |---|---|
-| **Framework and language** | ![React](https://img.shields.io/badge/React-19-0b1020?style=flat-square&logo=react&logoColor=22d3ee) ![TypeScript](https://img.shields.io/badge/TypeScript-0b1020?style=flat-square&logo=typescript&logoColor=8b5cf6) |
-| **3D and graphics** | ![Three.js](https://img.shields.io/badge/three-0.186-0b1020?style=flat-square&logo=threedotjs&logoColor=22d3ee) ![R3F](https://img.shields.io/badge/@react--three/fiber-9-0b1020?style=flat-square&logoColor=8b5cf6) ![drei](https://img.shields.io/badge/@react--three/drei-10-0b1020?style=flat-square&logoColor=22d3ee) ![postprocessing](https://img.shields.io/badge/@react--three/postprocessing-3-0b1020?style=flat-square&logoColor=8b5cf6) |
-| **Physics** | ![Rapier](https://img.shields.io/badge/@react--three/rapier-2-0b1020?style=flat-square&logoColor=22d3ee) |
-| **State** | ![Zustand](https://img.shields.io/badge/Zustand-5-0b1020?style=flat-square&logoColor=8b5cf6) |
-| **Animation** | ![GSAP](https://img.shields.io/badge/GSAP-3-0b1020?style=flat-square&logo=greensock&logoColor=22d3ee) |
+| **Framework and language** | `React 19` `TypeScript` |
+| **3D and graphics** | `three 0.186` `@react-three/fiber 9` `@react-three/drei 10` `@react-three/postprocessing 3` |
+| **Physics** | `@react-three/rapier 2` |
+| **State** | `Zustand 5` |
+| **Animation** | `GSAP 3` |
 | **Styling** | Plain CSS (`src/index.css`); fonts Orbitron and Rajdhani from Google Fonts |
-| **Build tooling** | ![Vite](https://img.shields.io/badge/Vite-8-0b1020?style=flat-square&logo=vite&logoColor=8b5cf6) ![@vitejs/plugin-react](https://img.shields.io/badge/plugin--react-6-0b1020?style=flat-square&logoColor=22d3ee) |
+| **Build tooling** | `Vite 8` `@vitejs/plugin-react 6` |
 | **Audio** | Browser Web Audio API (no library) |
 
 ---
@@ -397,9 +391,7 @@ I'm **Dipsita Rout**, a B.Tech Computer Science and Engineering student speciali
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dipsitarout.tech-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dipsitarout.tech/)
-[![GitHub](https://img.shields.io/badge/GitHub-dipsitarout-0b1020?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/dipsitarout)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dipsita--rout-0b1020?style=for-the-badge&logo=linkedin&logoColor=8b5cf6)](https://www.linkedin.com/in/dipsita-rout/)
+**Portfolio:** [dipsitarout.tech](https://www.dipsitarout.tech/) &nbsp;·&nbsp; **GitHub:** [github.com/dipsitarout](https://github.com/dipsitarout) &nbsp;·&nbsp; **LinkedIn:** [linkedin.com/in/dipsita-rout](https://www.linkedin.com/in/dipsita-rout/)
 
 If something here caught your eye, walk in and have a look around. I'd love to hear what you think.
 
